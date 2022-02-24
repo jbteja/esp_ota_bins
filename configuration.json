@@ -1,0 +1,22 @@
+{
+    "display_p10_rgb_2x2": {
+        "released": "Feb 2022",
+        "firmware": [
+            {
+                "version": "1.0.0",
+                "ota_bin": "https://myserver.com/updates/firmware-1.0.0.bin"
+            }
+        ]
+    },
+    "parking_sensor_v1": {
+        "firmware": [
+            {
+                "version": "1.0.0",
+                "host": "storage.googleapis.com",
+                "port": 80,
+                "bin": "/updates/firmware-1.0.0.bin"
+            }
+        ],
+        "release_date": "Feb 2022"
+    }
+}
